@@ -1,0 +1,59 @@
+
+
+#outerbox
+{
+width: 500px;
+overflow: hidden;
+
+}
+
+#sliderbox{
+	position: relative;
+	width: 2000px;
+	animation-name: Vinod;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+
+
+
+
+	
+}
+#sliderbox img{
+	float: left;
+}
+
+@keyframes Vinod
+
+{
+0%{
+	left: 0px;
+}
+
+20%{
+left: 
+}
+25%
+{
+left: -500px;
+}
+45%{
+	left: -500px;
+}
+50%
+{
+	left: -1000px;
+
+}
+75%
+{
+	left: -1500px;
+}
+95%{
+	left:-2000px;
+}
+100%{
+	left: -2000px;
+}
+}
+
